@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Guilherme!
 
-<!--
-**guilhermeemacedo/guilhermeemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estou começando na programação e faço **Engenharia de Software** 
+🐍 Meu foco é **Back-end com Python**  
+📚 Estudo todos os dias, principalmente pela **Alura**  
+🚀 Objetivo: conquistar minha **primeira vaga como desenvolvedor back-end**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O que estou estudando agora
+📌 Python  
+📌 Lógica de programação  
+📌 Git e GitHub  
+📌 Conceitos de Back-end  
+
+---
+
+## 📂 Sobre este GitHub
+✨ Aqui eu coloco meus **estudos, exercícios e projetos**  
+✨ Nada perfeito, tudo em evolução  
+✨ Cada repositório mostra um pouco do meu progresso  
