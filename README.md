@@ -22,3 +22,6 @@
 ✨ Aqui eu coloco meus estudos, exercícios e projetos  
 ✨ Nada perfeito, tudo em evolução  
 ✨ Cada repositório mostra um pouco do meu progresso  
+
+![Snake animation](https://github.com/guilhermeemacedo/guilhermeemacedo/blob/output/github-contribution-grid-snake.svg)
+
