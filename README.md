@@ -1,7 +1,6 @@
 # 👋 Oi, eu sou o Guilherme!
 
 💻 Estou começando na programação e faço **Engenharia de Software** 
-
 🐍 Meu foco é **Back-end com Python**  
 📚 Estudo todos os dias, principalmente pela **Alura**  
 🚀 Objetivo: conquistar minha **primeira vaga como desenvolvedor back-end**
