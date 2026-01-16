@@ -1,3 +1,5 @@
+# 👋 Oi, eu sou o Guilherme!
+
 💻 Estou começando na programação e faço Engenharia de Software  
 
 🐍 Meu foco é Back-end com Python  
