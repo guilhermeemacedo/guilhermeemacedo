@@ -1,53 +1,77 @@
-# 👋 Oi, eu sou o Guilherme!
+# 👋 Olá, eu sou o Guilherme
 
-💻 Estudante de Engenharia de Software e Cibersegurança  
-🐍 Foco em Back-end com Python  
-🚀 Objetivo: conquistar minha primeira vaga como desenvolvedor Back-end  
+🎓 Estudante de Engenharia de Software
+🛡️ Estudante de Cibersegurança com foco em segurança ofensiva
+🐍 Utilizando Python para automação e desenvolvimento
+🎯 Objetivo: iniciar carreira em **Application Security / Security Testing**
 
 ---
 
-## 🧠 Tecnologias e Estudos Atuais
+## 🚀 Sobre mim
+
+Sou estudante de Engenharia de Software com interesse em **segurança de aplicações e exploração de vulnerabilidades web**.
+
+Atualmente estudo **cibersegurança ofensiva**, praticando através de **laboratórios, desafios de CTF e projetos em Python**, buscando desenvolver habilidades práticas em identificação e exploração de falhas de segurança.
+
+Meu objetivo é iniciar carreira na área de **Application Security (AppSec)** ou **Security Testing**, contribuindo para tornar aplicações mais seguras.
+
+---
+
+## 🧠 Áreas de estudo
+
+* Web Security
+* Application Security (AppSec)
+* Vulnerability Testing
+* Segurança ofensiva
+* Python para automação
+* Desenvolvimento Back-end
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
-📌 Python: POO, funções, laços, projetos  
-📌 Lógica de programação  
-📌 Git e GitHub  
-📌 Conceitos de Back-end  
+---
+
+## 🧪 Experiência prática
+
+* Participação em desafios de **CTF (Capture The Flag)**
+* Exploração de vulnerabilidades web em ambientes de laboratório
+* Estudo de técnicas de **Web Hacking**
+* Prática com ferramentas de teste de segurança
+* Desenvolvimento de projetos em **Python**
 
 ---
 
-## 📂 Projetos e Estudos no GitHub
+## 📂 Projetos
 
-✨ Projetos pessoais de Python  
-✨ Exercícios da Alura  
-✨ Foco em POO, controle de contas e transações  
-✨ Evoluindo constantemente com prática diária  
+Aqui você encontrará:
 
----
-
-## 🌟 Destaques
-
-- **Projeto Bancário em Python:** Conta, Cliente, Banco, Transações (POO)  
-- **Exercícios de Lógica e Funções:** listas, dicionários, loops  
-- **Git e GitHub:** versionamento de projetos reais  
+* Projetos em **Python**
+* Estudos e experimentos de **segurança**
+* Exercícios e desafios técnicos
+* Projetos acadêmicos
 
 ---
 
-## 📈 Minhas contribuições
+## 📊 Estatísticas do GitHub
 
-![Snake animation](https://github.com/guilhermeemacedo/guilhermeemacedo/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeemacedo\&show_icons=true\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemacedo\&layout=compact\&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeemacedo\&theme=dark)
 
 ---
 
 ## 📫 Contato
 
-✉️ Email: guilhermemacedo0777@gmail.com
-
-📱 WhatsApp: +55 64 99610-0197  
-🌐 GitHub: [github.com/guilhermeemacedo](https://github.com/guilhermeemacedo)
+📧 Email: [guilhermemacedo0777@gmail.com](mailto:guilhermemacedo0777@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/guilherme-macedo-252ab0391
