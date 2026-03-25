@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Guilherme
 
-🎓 Estudante de Engenharia de Software
-🛡️ Estudante de Cibersegurança com foco em segurança ofensiva
-🐍 Utilizando Python para automação e desenvolvimento
-🎯 Objetivo: iniciar carreira em **Application Security / Security Testing**
+🎓 Estudante de Engenharia de Software  
+🛡️ Estudante de Cibersegurança com foco em segurança ofensiva  
+🐍 Utilizando Python para automação e desenvolvimento  
+🎯 Objetivo: iniciar carreira em Application Security / Security Testing  
 
 ---
 
