@@ -63,8 +63,6 @@ Aqui você encontrará:
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeemacedo\&show_icons=true\&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemacedo\&layout=compact\&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeemacedo\&theme=dark)
